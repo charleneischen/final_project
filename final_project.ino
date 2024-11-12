@@ -73,7 +73,6 @@ void sequence() {
   // }
 }
 
-
 void nextStep() {
   currentStep = currentStep + 1;
   if (currentStep >= totalSteps) {
